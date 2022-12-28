@@ -1,6 +1,7 @@
 from gpiozero import CamJamKitRobot
 import time
 
+#Speed ajusted
 MAX_SPEED = 70
 
 robot = CamJamKitRobot()
